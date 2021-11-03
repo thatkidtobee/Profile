@@ -1,0 +1,132 @@
+body {
+  /* background-color: ; */
+  text-align: center;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.first-container {
+  background-color: #E4F9F5;
+  /* height: 100vh; */
+  padding-top: 100px;
+  position: relative;
+}
+
+.cloud-one {
+  position: absolute;
+  right: 350px;
+}
+
+.cloud-two {
+  position: absolute;
+  bottom: 300px;
+}
+
+.mountain {
+  position: relative;
+  bottom: 0;
+}
+
+h1 {
+  margin: 50px 0 0 0;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 2rem;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+p {
+  font-size: 1rem;
+}
+
+.profile {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+.prof {
+  border-radius: 100%;
+  margin-top: 100px;
+}
+
+hr {
+  border-style: dotted;
+  border-top: 5px;
+  border-width: 7px;
+  border-color: grey;
+  width: 5%;
+  margin: 100px auto 250px auto;
+}
+
+.ski {
+  margin-bottom: 100px;
+}
+
+.skill-row {
+  display: block;
+
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.skill-img-one {
+  border-radius: 100%;
+  width: 200px;
+  margin: 0 50px 0 0;
+  float: left;
+}
+
+.skill-img-two {
+  border-radius: 100%;
+  width: 200px;
+  margin: 0 0 0 50px;
+  float: right;
+}
+
+.fourth-container {
+  display: block;
+  margin: 0 auto 150px auto;
+  width: 50%;
+}
+
+input[type="submit"] {
+  background-color: #66BFBF;
+  border-style: none;
+  color: white;
+  font-weight: bold;
+  margin-top: 30px;
+  padding: 15px 30px;
+}
+
+input[type="submit"]:hover {
+  background-color: #E4F9F5;
+  border-style: none;
+  color: #66BFBF;
+  font-weight: bold;
+  margin-top: 30px;
+  padding: 15px 30px;
+}
+
+.footer {
+  background-color: #E4F9F5;
+  padding: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: #66BFBF;
+  padding: 30px;
+}
+
+.copyright {
+  margin: 30px auto 0 auto;
+  font-size: 0.8rem;
+}
